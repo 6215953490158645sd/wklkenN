@@ -1,0 +1,2 @@
+# wklkenN
+vim配置
